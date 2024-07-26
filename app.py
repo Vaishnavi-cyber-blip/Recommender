@@ -208,7 +208,7 @@ def main():
         Task = Provide detailed researched content to Trip Maker Expert.""")
       
     categories = ["Mountains", "Beaches", "Heritage", "Pilgrimage", "Road Trip"]
-    months = ["January", "February", "March", "April", "May", "June", "July", "August"]
+    months = ["January", "February", "March", "April", "May", "June", "July", "August","September","October","November","December"]
     type=["Family","Friends","Couples"]
     # Create the columns
     col1, col2, col3, col4, col5 = st.columns(5)
